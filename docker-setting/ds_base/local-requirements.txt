@@ -1,0 +1,51 @@
+jupyter
+notebook
+tqdm
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+numba
+opencv-python
+optuna
+
+# test tool
+pytest
+
+# jupyter extension
+tornado==6.1.0
+jupyter_contrib_nbextensions
+jupyterlab
+
+# lint tool
+autopep8
+
+# pytorch transform issue
+pillow==6.2.1
+
+# visualization
+seaborn==0.11.0
+plotly
+matplotlib-venn
+# ptitprince==0.2.5
+
+# NLP Tools
+mecab-python3
+gensim
+pandas-profiling
+
+# sudachi
+SudachiPy
+sudachidict_core
+
+# pytorch extension
+tensorboardX
+
+# API Server
+flask
+flask-cors
+
+# explainable models
+interpret
+pygam
